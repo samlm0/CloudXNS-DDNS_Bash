@@ -1,0 +1,3 @@
+这行填 API KEY
+这行填 SECRET KEY
+这行填完整域名 比如: theArecord.233.wiki
