@@ -14,7 +14,7 @@ tr
 
 1. 下载 `https://github.com/Diaoji/CloudXNS-DDNS_Bash/archive/master.zip`
 2. 解压 zip
-3. 修改解压后的 `account.txt`
+3. 修改解压后的 `account.txt` (不要使用Windows自带笔记本修改!!!!)
 4. 将解压后的 `account.txt` 和 `main.sh` 上传到 Unix/Linux 环境中 (路由器/树莓派/手机/等设备) , 两个文件必须在同一目录下
 5. 给予 `main.sh` 可执行权限
 6. 使用绝对路径执行 `main.sh`  For example : `root@openWrt# /opt/CloudXNS-DDNS/main.sh`
